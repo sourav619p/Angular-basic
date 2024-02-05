@@ -1,0 +1,4 @@
+1)To install angular type : npm install -g @angular/cli@latest
+2)To crete project with app.module type : ng new test --no-standalone 
+ Without app.module: ng new test
+3)And change directory to test and launch the project : ng serve
